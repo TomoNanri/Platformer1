@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gem
+  - cherry
+  - dokan
+  - biggem
+  - frog
+  - eagle
+  - opossum
+  - enemyBlocking
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Ground
+  - Dokan
+  - Player
+  - DamageEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 354353165
+    locked: 0
+  - name: GroundItem
+    uniqueID: 250351213
+    locked: 0
+  - name: Ground
+    uniqueID: 1171323557
+    locked: 0
+  - name: Ground2
+    uniqueID: 3270569769
+    locked: 0
+  - name: Item
+    uniqueID: 2573765329
+    locked: 0
+  - name: Enemy
+    uniqueID: 3519306575
+    locked: 0
+  - name: Player
+    uniqueID: 1109705445
+    locked: 0
+  - name: Ground3
+    uniqueID: 1367399353
+    locked: 0
+  - name: Ground4
+    uniqueID: 237299387
+    locked: 0
+  - name: Dokan
+    uniqueID: 817237187
+    locked: 0
